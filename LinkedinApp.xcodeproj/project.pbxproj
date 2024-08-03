@@ -84,11 +84,7 @@
 		6B7A7A832C5E32030063FB3C /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		6B7A7A862C5E33B50063FB3C /* Strings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Strings.swift; sourceTree = "<group>"; };
 		6B7A7A872C5E33B50063FB3C /* Assets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Assets.swift; sourceTree = "<group>"; };
-		6B7A7A912C5E350A0063FB3C /* SwiftGen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftGen.h; sourceTree = "<group>"; };
-		6B7A7AA12C5E351D0063FB3C /* SwiftGen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftGen.swift; sourceTree = "<group>"; };
-		6B7A7AAD2C5E35330063FB3C /* SwiftGen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftGen.h; sourceTree = "<group>"; };
 		6B7A7AB92C5E35C00063FB3C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Search.strings; sourceTree = "<group>"; };
-		6B7A7AC92C5E55DA0063FB3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		6B7A7ACA2C5E61200063FB3C /* SearchHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchHeaderView.swift; sourceTree = "<group>"; };
 		6BE7F3B62C5CEE230035C5C3 /* LinkedinApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LinkedinApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BE7F3B92C5CEE230035C5C3 /* LinkedinApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedinApp.swift; sourceTree = "<group>"; };
@@ -226,37 +222,10 @@
 			path = SwiftGen;
 			sourceTree = "<group>";
 		};
-		6B7A7A902C5E350A0063FB3C /* SwiftGen */ = {
-			isa = PBXGroup;
-			children = (
-				6B7A7A912C5E350A0063FB3C /* SwiftGen.h */,
-			);
-			path = SwiftGen;
-			sourceTree = "<group>";
-		};
-		6B7A7AA02C5E351D0063FB3C /* SwiftGen */ = {
-			isa = PBXGroup;
-			children = (
-				6B7A7AA12C5E351D0063FB3C /* SwiftGen.swift */,
-			);
-			path = SwiftGen;
-			sourceTree = "<group>";
-		};
-		6B7A7AAC2C5E35330063FB3C /* SwiftGen */ = {
-			isa = PBXGroup;
-			children = (
-				6B7A7AAD2C5E35330063FB3C /* SwiftGen.h */,
-			);
-			path = SwiftGen;
-			sourceTree = "<group>";
-		};
 		6BE7F3AD2C5CEE230035C5C3 = {
 			isa = PBXGroup;
 			children = (
 				6BE7F3B82C5CEE230035C5C3 /* LinkedinApp */,
-				6B7A7A902C5E350A0063FB3C /* SwiftGen */,
-				6B7A7AA02C5E351D0063FB3C /* SwiftGen */,
-				6B7A7AAC2C5E35330063FB3C /* SwiftGen */,
 				6BE7F3B72C5CEE230035C5C3 /* Products */,
 				0ED4AF9BC5D1894E93F76CD3 /* Pods */,
 				0FAA13A91577F66C719A7C79 /* Frameworks */,
@@ -274,7 +243,6 @@
 		6BE7F3B82C5CEE230035C5C3 /* LinkedinApp */ = {
 			isa = PBXGroup;
 			children = (
-				6B7A7AC92C5E55DA0063FB3C /* Info.plist */,
 				6B7A7A7B2C5E176C0063FB3C /* App */,
 				6B7A7A562C5E134F0063FB3C /* Models */,
 				6B7A7A552C5E13480063FB3C /* ViewModels */,
