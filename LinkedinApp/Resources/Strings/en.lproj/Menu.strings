@@ -1,0 +1,13 @@
+/* 
+  Menu.strings
+  LinkedinApp
+
+  Created by Md. Nazmul Hasan on 3/8/24.
+  
+*/
+
+"home" = "Home";
+"my_network" = "My Network";
+"post" = "Post";
+"notifications" = "Notifications";
+"jobs" = "Jobs";

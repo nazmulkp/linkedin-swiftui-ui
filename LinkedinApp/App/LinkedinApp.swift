@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct LinkedinAppApp: App {
+struct LinkedinApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BottomTabView()
         }
     }
 }

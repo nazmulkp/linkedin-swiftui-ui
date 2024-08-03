@@ -1,0 +1,11 @@
+/* 
+  Search.strings
+  LinkedinApp
+
+  Created by Md. Nazmul Hasan on 3/8/24.
+  
+*/
+
+"search" = "Search";
+"search_results" = "About %@ results";
+"mutual_connections" = "%@ mutual connections";
